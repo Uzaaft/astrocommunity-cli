@@ -9,7 +9,7 @@ Currently, we only support installing trough cargo.
 To install, you need to run:
 
 ```bash
-cargo install git@github.com:astronvim/astrocommunity-cli
+cargo install --git https://github.com/AstroNvim/astrocommunity-cli
 ```
 
 ## 🔨 Usage
